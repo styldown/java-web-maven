@@ -17,7 +17,7 @@ public abstract class DAOFactory {
 	    /**
 	     * Mot de passe du user
 	     */
-	private static String passwd = "**********";
+	private static String passwd = "########";
 	    /**
 	     * Objet Connexion
 	     */
